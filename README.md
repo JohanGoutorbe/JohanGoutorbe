@@ -33,17 +33,18 @@ Hello everyone! I'm Arakelian
 
 <p align="center">
    <b><em>GitHub Streak Stats :</em></b> <br/>
-   <div align="center">
+</p>
+<div align="center">
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-      </div>
+</div>
+<p align="center">
    <br/><br/><b><em>GitHub Stats :</em></b> <br/>
-   <div align="center">
-      
+</p>
+<div align="center">
    
    [![Arakelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github.com/anuraghazra/github-readme-stats)
-      </div>
-</p>
+</div>
 
 <br/>
 
