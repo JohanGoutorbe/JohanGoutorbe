@@ -23,3 +23,6 @@
 ## Stats
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanGoutorbe" alt="GitHub Stats Image" />
+</p>
