@@ -20,9 +20,13 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 
-## Stats
+## Stats for nerds
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
+<img scr="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" alt="Tests Passing"> <img src="https://img.shields.io/github/repo-size/JohanGoutorbe/JohanGoutorbe"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanGoutorbe" alt="GitHub Stats Image" />
+  <b><em>GitHub Stats :</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanGoutorbe" alt="GitHub Stats Image" /> <br/><br/>
+  <b><em>Programming activity (Last 7 days) :</em></b> <br/><br/>
+    <img src = 
+  
 </p>
