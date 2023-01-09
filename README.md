@@ -1,3 +1,5 @@
+# Hello everyone !
+
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
 - 👀 I have been passionate about programming for several years now. I really enjoy sharing my code with you.
@@ -17,5 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
+
+## Stats
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
