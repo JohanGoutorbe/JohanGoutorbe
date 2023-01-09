@@ -30,12 +30,12 @@ Hello everyone! I'm Arakelian
 ## Stats for nerds
 
 <img scr="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" alt="Tests Passing"> <img src="https://img.shields.io/github/repo-size/JohanGoutorbe/JohanGoutorbe"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
+
 <p align="center">
    <b><em>GitHub Stats :</em></b> <br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/JohanGoutorbe" alt="GitHub Stats Image" /> <br/><br/>
-   <b><em>Programming activity (Last 7 days) :</em></b> <br/>
    
-   [![JohanGoutorbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github.com/anuraghazra/github-readme-stats)
+   [![JohanGoutorbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github.com/JohanGoutorbe/github-readme-stats)
 </p>
 
 <br/>
