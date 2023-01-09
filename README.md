@@ -14,6 +14,8 @@ Hello everyone! I'm Arakelian
 - 🌱 I'm mainly perfecting myself on JavaScript, and I'm having fun creating HTML5-CSS3 web pages with a maximum of PHP embedded in the code, and JavaScript to automate my pages.
 - 📫 You can reach me at my professional email address: contact@johan-goutorbe.fr
 
+<br/>
+
 ## The Technologies I Master
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,6 +28,8 @@ Hello everyone! I'm Arakelian
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
+
+<br/>
 
 ## Stats for nerds
 
