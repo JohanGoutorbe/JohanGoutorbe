@@ -31,6 +31,10 @@
   <b><em>GitHub Stats :</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanGoutorbe" alt="GitHub Stats Image" /> <br/><br/>
   <b><em>Programming activity (Last 7 days) :</em></b> <br/><br/>
-    <img src = 
-  
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JohanGoutorbe" alt="WakaTime" />
 </p>
+
+<br/><br/>
+
+<p>Currently listening to :</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbbg5ouygucgkwobawqa4ytrfy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
