@@ -32,10 +32,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanGoutorbe" alt="GitHub Stats Image" /> <br/><br/>
   <b><em>Programming activity (Last 7 days) :</em></b> <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JohanGoutorbe" alt="WakaTime" />
+</p>
 
 <br/><br/>
 
+<div align="center">
 <p>Currently listening to :</p>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbbg5ouygucgkwobawqa4ytrfy&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
+</div>
