@@ -39,7 +39,7 @@ Hello everyone! I'm Arakelian
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 </div>
 <p align="center">
-   <br/><br/><b><em>GitHub Stats :</em></b> <br/>
+   <br/><b><em>GitHub Stats :</em></b> <br/>
 </p>
 <div align="center">
    
