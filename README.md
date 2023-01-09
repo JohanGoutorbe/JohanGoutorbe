@@ -33,8 +33,9 @@ Hello everyone! I'm Arakelian
 <p align="center">
   <b><em>GitHub Stats :</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanGoutorbe" alt="GitHub Stats Image" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days) :</em></b> <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JohanGoutorbe" alt="WakaTime" />
+  <b><em>Programming activity (Last 7 days) :</em></b> <br/>
+   
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github.com/JohanGoutorbe/github-readme-stats)
 </p>
 
 <br/>
