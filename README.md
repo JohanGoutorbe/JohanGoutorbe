@@ -31,7 +31,7 @@ Hello everyone! I'm Arakelian
 
 ## Stats for nerds
 
-<img scr="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" alt="Tests Passing"> <img src="https://img.shields.io/github/repo-size/JohanGoutorbe/JohanGoutorbe"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
+<img src="https://img.shields.io/github/repo-size/JohanGoutorbe/JohanGoutorbe"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
 
 <p align="center">
    <b><em>GitHub Stats :</em></b> <br/>
