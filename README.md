@@ -35,7 +35,7 @@ Hello everyone! I'm Arakelian
    <b><em>GitHub Stats :</em></b> <br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/JohanGoutorbe" alt="GitHub Stats Image" /> <br/><br/>
    
-   [![JohanGoutorbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github.com/JohanGoutorbe/github-readme-stats)
+   ![JohanGoutorbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
 </p>
 
 <br/>
