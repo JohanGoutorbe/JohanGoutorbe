@@ -26,6 +26,8 @@ Hello everyone! I'm Arakelian
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
+<br/>
+![JohanGoutorbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
 
 ## Stats for nerds
 
