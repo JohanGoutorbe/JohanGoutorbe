@@ -14,8 +14,6 @@ Hello everyone! I'm Arakelian
 - 🌱 I'm mainly perfecting myself on JavaScript, and I'm having fun creating HTML5-CSS3 web pages with a maximum of PHP embedded in the code, and JavaScript to automate my pages.
 - 📫 You can reach me at my professional email address: contact@johan-goutorbe.fr
 
-<br/>
-
 ## The Technologies I Master
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -29,8 +27,6 @@ Hello everyone! I'm Arakelian
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 
-<br/>
-
 ## Stats for nerds
 
 <img scr="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" alt="Tests Passing"> <img src="https://img.shields.io/github/repo-size/JohanGoutorbe/JohanGoutorbe"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers)
@@ -41,7 +37,7 @@ Hello everyone! I'm Arakelian
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JohanGoutorbe" alt="WakaTime" />
 </p>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 <p>Currently listening to :</p>
