@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center" width="80%">
 
-![<h1>Hello, I'm Arakelian !</h1><br/><h2>I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN.png?raw=true)
-</p>
+![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN.png?raw=true)
+</div>
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
