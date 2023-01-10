@@ -40,7 +40,7 @@
 </p>
 <div align="center">
    
-   ![Arakelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
+   [![Arakelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
    <br/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
