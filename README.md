@@ -1,6 +1,6 @@
 <p align="center">
 
-![<h1>Hello, I'm Arakelian !</h1><br/><h2>I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/ARAKELIAN.jpg?raw=true)
+![<h1>Hello, I'm Arakelian !</h1><br/><h2>I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/ARAKELIAN.png?raw=true)
 </p>
   
 ## Who Am I ?
