@@ -1,4 +1,4 @@
-<div align="center" width="80%">
+<div align="center">
 
 ![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN.png?raw=true)
 </div>
