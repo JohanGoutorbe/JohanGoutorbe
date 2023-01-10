@@ -1,4 +1,4 @@
-<div align="center"><img href="https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN.png?raw=true"></div>
+<p align="center"><img href="./ARAKELIAN.png?raw=true"></p>
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
