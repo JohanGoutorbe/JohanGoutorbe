@@ -1,11 +1,4 @@
-<h1 align="center"><a href="https://github.com/JohanGoutorbe" alt="GitHub Link"> Hello everyone! I'm Arakelian<br/>I do open source :)</a></h1>
-
-
-<!---
-Do the PNG Image with : 
-Hello everyone! I'm Arakelian
-   I do open source :)
--->
+div align="center"><img href="https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN.png"></div>
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
