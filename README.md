@@ -1,4 +1,7 @@
-<p align="center"><img href="./ARAKELIAN.png"></p>
+<p align="center">
+
+![<h1>Hello, I'm Arakelian !</h1><br/><h2>I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/ARAKELIAN.jpg?raw=true)
+</p>
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
