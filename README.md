@@ -1,8 +1,8 @@
 <div align="center">
 
-![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN_dark.png?raw=true#gh-dark-mode-only)
+![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN_dark.png#gh-dark-mode-only)
 
-![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN_light.png?raw=true#gh-light-mode-only)
+![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN_light.png#gh-light-mode-only)
 
 </div>
   
