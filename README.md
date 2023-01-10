@@ -1,4 +1,4 @@
-<p align="center"><img href="./ARAKELIAN.png?raw=true"></p>
+<p align="center"><img href="./ARAKELIAN.png"></p>
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
