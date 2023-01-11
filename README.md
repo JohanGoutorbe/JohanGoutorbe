@@ -48,6 +48,6 @@
 <div align="center">
   <p>Currently listening to :</p>
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbbg5ouygucgkwobawqa4ytrfy&cover_image=true&theme=default&show_offline=true)] (https://open.spotify.com/)
+  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbbg5ouygucgkwobawqa4ytrfy&cover_image=true&theme=default&show_offline=true)
   </p>
 </div>
