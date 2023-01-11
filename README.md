@@ -41,7 +41,7 @@
 <div align="center">
   
   [![Arakelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
-  <br/><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy" /></a>
+  <br/><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe" /></a>
 </div>
 <br/>
 
