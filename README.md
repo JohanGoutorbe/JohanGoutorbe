@@ -33,7 +33,7 @@
 </p>
 <div align="center">
    
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&hide_border=true&border_radius=5)
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&border_radius=5)
 </div>
 <p align="center">
    <br/><b><em>GitHub Stats :</em></b> <br/>
