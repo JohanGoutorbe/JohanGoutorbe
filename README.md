@@ -32,16 +32,16 @@
    <b><em>GitHub Streak Stats :</em></b> <br/>
 </p>
 <div align="center">
-   
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&border_radius=5)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&border_radius=5)
 </div>
 <p align="center">
    <br/><b><em>GitHub Stats :</em></b> <br/>
 </p>
 <div align="center">
   
-  [![Arakelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
-   <br/><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy" /></a>
+  ![Arakelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanGoutorbe)
+  <br/><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe&layout=compact&theme=buefy" /></a>
 </div>
 
 <br/>
