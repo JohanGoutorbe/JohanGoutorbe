@@ -1,4 +1,4 @@
-<div align="center" max-height:100px;>
+<div align="center" height:100px;>
 
 ![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/ARAKELIAN.png?raw=true)
 
