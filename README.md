@@ -7,7 +7,7 @@
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
 - 👀 I have been passionate about programming for several years now. I really enjoy sharing my code with you.
-- 🌱 I am currently learning object oriented software languages such as .NET framework or JAVA and OBJECT ORIENTED PHP languages.
+- 🌱 I am currently perfecting myself on PHP and web languages (such as HTML, CSS and JavaScript) by carrying out the CopierCare project for the company in which I am currently alternating Office Center.
 - 🌱 I'm mainly perfecting myself on JavaScript, and I'm having fun creating HTML5-CSS3 web pages with a maximum of PHP embedded in the code, and JavaScript to automate my pages.
 - 📫 You can reach me at my professional email address: contact@johan-goutorbe.fr
 
