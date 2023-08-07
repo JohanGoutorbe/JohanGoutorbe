@@ -3,10 +3,10 @@
 ![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/pp.png)
   
 ## Who Am I ?
-👋 Hi, I’m @Arakelian on the Internet and beyond, but I'm only Johan Goutorbe in real life.
-👀 I have been passionate about programming for several years now. I really enjoy sharing my code with you.
-🌱 I am currently perfecting myself on PHP and web languages (such as HTML, CSS and JavaScript) by carrying out the CopierCare project for the company in which I am currently alternating.
-🌱 I'm mainly perfecting myself on JavaScript, and I'm having fun creating HTML5-CSS3 web pages with a maximum of PHP embedded in the code, and JavaScript to automate my pages.
+👋 Hi, I’m @Arakelian on the Internet and beyond, but I'm only Johan Goutorbe in real life.<br/>
+👀 I have been passionate about programming for several years now. I really enjoy sharing my code with you.<br/>
+🌱 I am currently perfecting myself on PHP and web languages (such as HTML, CSS and JavaScript) by carrying out the CopierCare project for the company in which I am currently alternating.<br/>
+🌱 I'm mainly perfecting myself on JavaScript, and I'm having fun creating HTML5-CSS3 web pages with a maximum of PHP embedded in the code, and JavaScript to automate my pages.<br/>
 📫 You can reach me at my professional email address: contact@johan-goutorbe.fr
 
 ## The Technologies I Master
