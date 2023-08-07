@@ -1,8 +1,6 @@
 <div align="center">
 
 ![Hello, I'm Arakelian! I do open source</h2>](https://github.com/JohanGoutorbe/JohanGoutorbe/blob/main/pp.png)
-
-</div>
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond, but I'm only Johan Goutorbe in real life.
