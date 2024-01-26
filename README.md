@@ -1,7 +1,7 @@
 <div align="center">
    
 ## Who Am I ?
-👋 Hi, I’m @Arakelian on the Internet and beyond, but I'm only Johan Goutorbe in real life.<br/>
+👋 Hi, I’m <span style="color:blue">@Arakelian</span> on the Internet and beyond, but I'm only Johan Goutorbe in real life.<br/>
 👀 I have been passionate about programming for several years now. I really enjoy sharing my code with you.<br/>
 🌱 I am currently perfecting myself on web languages. I'm also just starting the development of a new video game project with my friends using Unreal Engine 5, I'm still in the learning phase.<br/>
 🌱 I'm mainly perfecting myself on JavaScript, and I'm having fun creating HTML5-CSS3 web pages.<br/>
