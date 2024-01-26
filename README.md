@@ -40,7 +40,6 @@
   <br/><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe" /></a>
 </div>
 <br/>
-<br/>
 
 <div align="center">
   
