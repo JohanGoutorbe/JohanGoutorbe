@@ -32,7 +32,7 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanGoutorbe&border_radius=5)
 </div>
 <p align="center">
-   <br/><b><em>GitHub Stats :</em></b> <br/>
+   <br/><b><em>Languages Used Stats :</em></b> <br/>
 </p>
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanGoutorbe" /></a>
