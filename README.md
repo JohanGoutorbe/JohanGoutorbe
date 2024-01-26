@@ -22,7 +22,8 @@
 
 ## Stats for nerds
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers) https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe](https://img.shields.io/github/stars/JohanGoutorbe
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanGoutorbe.JohanGoutorbe) [![GitHub followers](https://img.shields.io/github/followers/JohanGoutorbe.svg?style=social&label=Follow)](https://github.com/JohanGoutorbe?tab=followers) ![GitHub User's stars](https://img.shields.io/github/stars/JohanGoutorbe)
+
 
 
 <p align="center">
